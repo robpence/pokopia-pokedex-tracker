@@ -1,0 +1,1874 @@
+[
+  {
+    "Name": "Bulbasaur",
+    "Habitat 1 Details": "Tall Grass - \nTall Grass x4",
+    "Habitat 2 Details": "Bench with Greenery - \nHedge (any) x2, \nSeat (wide) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ivysaur",
+    "Habitat 1 Details": "Field of Flowers - \nWildflowers x8",
+    "Habitat 2 Details": "Bench with Greenery - \nHedge (any) x2, \nSeat (wide) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Venusaur",
+    "Habitat 1 Details": "Field of Flowers - \nWildflowers x8",
+    "Habitat 2 Details": "Garden Terrace - \n4x Wildflowers, \n1x Garden Chair, \n1x Garden Table, \n1x Garden Light",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Charmander",
+    "Habitat 1 Details": "Tall Grass - \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Charmeleon",
+    "Habitat 1 Details": "Campsite - \nCampfire, \nStraw Table, \nStraw Stool",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Charizard",
+    "Habitat 1 Details": "Tall Grass - \nTall Grass x4",
+    "Habitat 2 Details": "Berry-fest Campsite - \nCastform Weather Charm (Sun) x2, \nBunfire x1, \nBerry Basket x1, \nHigh-up Location",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Squirtle",
+    "Habitat 1 Details": "Tall Grass - \nTall Grass x4",
+    "Habitat 2 Details": "Hydrated Tall Grass - \nTall Grass x4, \nWater x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Wartortle",
+    "Habitat 1 Details": "Hydrated Tall Grass - \nTall Grass x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Blastoise",
+    "Habitat 1 Details": "Hydrated Tall Grass - \nTall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Floating in the Shade - \nInflatable Boat x1, \nBeach Parasol x1, \nWater x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pidgey",
+    "Habitat 1 Details": "Elevated Tall Grass - \nTall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Pretty Flower Bed - \nWildflowers x4",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pidgeotto",
+    "Habitat 1 Details": "Elevated Tall Grass - \nTall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Pretty Flower Bed - \nWildflowers x4",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pidgeot",
+    "Habitat 1 Details": "Luxury Chirp-Chirp Meal -\nBirdhouse x1,\nBerry Basket x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Oddish",
+    "Habitat 1 Details": "Tall Grass - \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gloom",
+    "Habitat 1 Details": "Tropical Vibes - \nLarge Palm Tree x1, \nSeashore Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Vileplume",
+    "Habitat 1 Details": "Chansey Resting Area - \nHedge (any) x6, \nSeat (wide) x1, \nChansey Plant x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Bellossom",
+    "Habitat 1 Details": "Chansey Resting Area - \nHedge (any) x6, \nSeat (wide) x1, \nChansey Plant x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Paras",
+    "Habitat 1 Details": "Elevated Flower Bed - \nWildflowers x4, \nHigh-up Location",
+    "Habitat 2 Details": "Flower Garden - \nHedge (any) x4, \nWildflowers x4",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Parasect",
+    "Habitat 1 Details": "Elevated Flower Bed - \nWildflowers x4, \nHigh-up Location",
+    "Habitat 2 Details": "Flower Garden - \nHedge (any) x4, \nWildflowers x4",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Venonat",
+    "Habitat 1 Details": "Illuminated Tall Grass - \nTall Grass (any) x4, \nLighting (any) x1",
+    "Habitat 2 Details": "Illuminated Bench - \nSeat (wide) x1, \nStreetlight (any) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Venomoth",
+    "Habitat 1 Details": "Illuminated Tall Grass - \nTall Grass (any) x4, \nLighting (any) x1",
+    "Habitat 2 Details": "Illuminated Bench - \nSeat (wide) x1, \nStreetlight (any) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Bellsprout",
+    "Habitat 1 Details": "Tree-shaded Tall Grass - \nLarge Tree (any) x1, \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Weepinbell",
+    "Habitat 1 Details": "Flowery Table - \nSeat (any) x1, \nTable (any) x1, \nSmall Vase x1",
+    "Habitat 2 Details": "Irresistable Scent and Glow - \nPitcher-plant pot x1, \nPlated Food x1, \nMushroom Lamp x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Victreebel",
+    "Habitat 1 Details": "Flowery Table - \nSeat (any) x1, \nTable (any) x1, \nSmall Vase x1",
+    "Habitat 2 Details": "Irresistable Scent and Glow - \nPitcher-plant pot x1, \nPlated Food x1, \nMushroom Lamp x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Slowpoke",
+    "Habitat 1 Details": "Seaside Tall Grass - \nTall Grass x4, \nOcean Water x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Slowbro",
+    "Habitat 1 Details": "Seaside Tall Grass - \nTall Grass x4, \nOcean Water x2",
+    "Habitat 2 Details": "Bed With a Plush - \nBed (any) x1, \nDoll (any) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Slowking",
+    "Habitat 1 Details": "Seaside Tall Grass - \nTall Grass x4, \nOcean Water x2",
+    "Habitat 2 Details": "Bed With a Plush - \nBed (any) x1, \nDoll (any) x1",
+    "Habitat 3 Details": "Fishing Pond - \nFishing Rod x1, \nSeat (any) x1, \nWater x1"
+  },
+  {
+    "Name": "Magnemite",
+    "Habitat 1 Details": "Factory Storage - \nStreetlight (any) x1, \nControl Unit x1, \nMetal Drum x1, \nJumbled Cords x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Magneton",
+    "Habitat 1 Details": "Trash Can Central -\nGarbage Bin x4",
+    "Habitat 2 Details": "Mini Game Corner - \nArcade Machine x1, \nSeat (any) x1, \nPunching Game x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Magnezone",
+    "Habitat 1 Details": "Trash Can Central -\nGarbage Bin x4",
+    "Habitat 2 Details": "Mini Game Corner - \nArcade Machine x1, \nSeat (any) x1, \nPunching Game x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Onix",
+    "Habitat 1 Details": "Smooth Tall Grass - \nDry Tall Grass x4, \nSmooth Rock x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Steelix",
+    "Habitat 1 Details": "Clink-clang Iron Construction - \nIron beam or column x3, \nWheelbarrow x1, \nSandbags x1, \nExcavation Tools x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cubone",
+    "Habitat 1 Details": "Grave with Flowers - \nWildflowers x1, \nGravestone x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Marowak",
+    "Habitat 1 Details": "Grave with Flowers - \nWildflowers x1, \nGravestone x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tyrogue",
+    "Habitat 1 Details": "Training Waterfall - \nSeat (any) x1, \nWater x2, \nWaterfall x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Hitmonlee",
+    "Habitat 1 Details": "Urgent Care - \nSeat (any) x1, \nTable (any) x1, \nFirst Aid Kit x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Hitmonchan",
+    "Habitat 1 Details": "Exercise Resting Spot - \nPunching Bag x1, \nSeat (any) x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Hitmontop",
+    "Habitat 1 Details": "Gym First Aid - \nTable (any) x1, \nPunching Bag x1, \nFirst Aid Kit x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Koffing",
+    "Habitat 1 Details": "Trash Collection Site - \nWaste Bin (any) x1, \nSign (any) x1, \nGarbage Bags x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Weezing",
+    "Habitat 1 Details": "Good Old-Fashioned Antiques -\nAntique Closet x1,\nAntique Bed x1,\nAntique Dresser x1,\nAntique Chaire x1",
+    "Habitat 2 Details": "Trash Collection Site - \nWaste Bin (any) x1, \nSign (any) x1, \nGarbage Bags x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tangela",
+    "Habitat 1 Details": "Nothin' But Poke Balls - \nPoke Ball Sofa x1,\nPoke Ball Table x1,\nPoke Ball Bed x1, \nPoke Ball Light x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Professor Tangrowth",
+    "Habitat 1 Details": "N/A",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tangrowth",
+    "Habitat 1 Details": "Bench with Greenery - \nHedge (any) x2, \nSeat (wide) x1",
+    "Habitat 2 Details": "Professor's Treasure Trove - \nProfessor's Treasure Trove x1, \nLost Relic (Large) x4, \nBed (any) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Scyther",
+    "Habitat 1 Details": "Tree-shaded Tall Grass - \nLarge Tree (any) x1, \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Scizor",
+    "Habitat 1 Details": "Tree-shaded Tall Grass - \nLarge Tree (any) x1, \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pinsir",
+    "Habitat 1 Details": "Tree-shaded Tall Grass - \nLarge Tree (any) x1, \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Magikarp",
+    "Habitat 1 Details": "Ocean Fishing Spot - \nFishing Rod x1, \nSeat (any) x1, \nOcean Water x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gyarados",
+    "Habitat 1 Details": "Illuminated Waterfall - \nStepping Stones x3, \nTorch x2, \nWater x3, \nWaterfall x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ditto",
+    "Habitat 1 Details": "N/A",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Hoothoot",
+    "Habitat 1 Details": "Elevated Tall Grass - \nTall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Pretty Flower Bed - \nWildflowers x4",
+    "Habitat 3 Details": "Gently Lit Bed - \nBed (any) x1, \nTable (any) x1, \nSlender Candle x1"
+  },
+  {
+    "Name": "Noctowl",
+    "Habitat 1 Details": "Elevated Tall Grass - \nTall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Gently Lit Bed - \nBed (any) x1, \nTable (any) x1, \nSlender Candle x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Heracross",
+    "Habitat 1 Details": "Tree-shaded Tall Grass - \nLarge Tree (any) x1, \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Volbeat",
+    "Habitat 1 Details": "Hydrated Flower Bed - Wildflowers x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Illumise",
+    "Habitat 1 Details": "Hydrated Flower Bed - Wildflowers x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gulpin",
+    "Habitat 1 Details": "Tantalizing Dining Set - \nSeat (any) x1, \nTable (any) x1, \nPlated Food x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Swalot",
+    "Habitat 1 Details": "Dinner Table Surprise - \nSeat (wide) x2, \nTable (large) x1, \nParty Platter x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cacnea",
+    "Habitat 1 Details": "Sunny Day Site - \nCastform Weather Charm (sun) x2, \nPlated Food x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cacturne",
+    "Habitat 1 Details": "Tree-shaded Tall Grass - \nLarge Tree (any) x1, \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Combee",
+    "Habitat 1 Details": "Pretty Flower Bed - \nWildflowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Vespiquen",
+    "Habitat 1 Details": "Field of Flowers - \nWildflowers x8",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Shellos",
+    "Habitat 1 Details": "Road Sign - \nArrow Sign x1, \nWooden Path x3",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Shellos East Sea",
+    "Habitat 1 Details": "Road Sign - \nArrow Sign x1, \nWooden Path x3",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gastrodon",
+    "Habitat 1 Details": "Ocean Fishing Spot - \nFishing Rod x1, \nSeat (any) x1, \nOcean Water x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gastrodon East Sea",
+    "Habitat 1 Details": "Ocean Fishing Spot - \nFishing Rod x1, \nSeat (any) x1, \nOcean Water x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Drifloon",
+    "Habitat 1 Details": "Riding Warm Updrafts - Campfire x3",
+    "Habitat 2 Details": "Bed with a Plush - \nBed (any) x1, \nDoll (any) x1",
+    "Habitat 3 Details": "Plush Central - \nArcanine Doll x1, \nPikachu Doll x1, \nDragonite Doll x1, \nEevee Doll x1"
+  },
+  {
+    "Name": "Drifblim",
+    "Habitat 1 Details": "Plush Central - \nArcanine Doll x1, \nPikachu Doll x1, \nDragonite Doll x1, \nEevee Doll x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Drilbur",
+    "Habitat 1 Details": "Fresh Veggie Field - \nVegetable field (any) x8",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Excadrill",
+    "Habitat 1 Details": "Fresh Veggie Field - \nVegetable field (any) x8",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Timburr",
+    "Habitat 1 Details": "Boulder-shaded tall grass - \nTall Grass x4, \nLarge Boulder x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gurdurr",
+    "Habitat 1 Details": "Boulder-shaded tall grass - \nTall Grass x4, \nLarge Boulder x1",
+    "Habitat 2 Details": "Large Luggage Carrier\nCart x1, \nWooden Crate x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Conkeldurr",
+    "Habitat 1 Details": "Construction Site Generator - Furnace x1, \nIron Scaffold x2, \nIron Pipes x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Litwick",
+    "Habitat 1 Details": "Grave Offering - \nSlender Candle x2, \nGravestone x1, \nPlated Food x1",
+    "Habitat 2 Details": "Creepy Grave Offering - \nEerie Candle x2, \nGravestone x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Lampent",
+    "Habitat 1 Details": "Grave Offering - \nSlender Candle x2, \nGravestone x1, \nPlated Food x1",
+    "Habitat 2 Details": "Creepy Grave Offering - \nEerie Candle x2, \nGravestone x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Chandelure",
+    "Habitat 1 Details": "Creepy Grave Offering - \nEerie Candle x2, \nGravestone x1, \nPlated Food x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Axew",
+    "Habitat 1 Details": "Lumberjack's Workplace - \nLog Chair x1, \nCart x1, \nTree Stump (any) x1, \nLog Table x1",
+    "Habitat 2 Details": "Cozy Log Handicrafts - \nLog Chair x1, \nLog Table x1, \nLog Bed x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Fraxure",
+    "Habitat 1 Details": "Lumberjack's Workplace - \nLog Chair x1, \nCart x1, \nTree Stump (any) x1, \nLog Table x1",
+    "Habitat 2 Details": "Cozy Log Handicrafts - \nLog Chair x1, \nLog Table x1, \nLog Bed x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Haxorus",
+    "Habitat 1 Details": "Lumberjack's Workplace - \nLog Chair x1, \nCart x1, \nTree Stump (any) x1, \nLog Table x1",
+    "Habitat 2 Details": "Cozy Log Handicrafts - \nLog Chair x1, \nLog Table x1, \nLog Bed x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Goomy",
+    "Habitat 1 Details": "Tree-shaded flower bed - \nBerry Tree (any) x1, \nWildflowers x4",
+    "Habitat 2 Details": "Rain Dance Site - \nCastform Weather Charm (rain) x2, Plated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Sliggoo",
+    "Habitat 1 Details": "Hydrated Tall Grass - \nTall Grass x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Goodra",
+    "Habitat 1 Details": "Very-Berry Space - \nBerry Chair x1,\nBerry Table x1,\nBerry Bed x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cramorant",
+    "Habitat 1 Details": "Hydrated Tall Grass - \nTall Grass x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pichu",
+    "Habitat 1 Details": "Picnic Set - \nSeat (any) x2, \nTable (any) x1, \nPicnic Basket x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Peakychu",
+    "Habitat 1 Details": "Full Recovery - \nBed (any) x1, \nPlain Chest x1, \nFirst Aid Kit x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pikachu",
+    "Habitat 1 Details": "Picnic Set - \nSeat (any) x2, \nTable (any) x1, \nPicnic Basket x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Raichu",
+    "Habitat 1 Details": "Nature's Market - \nLarge Tree (any) x1, \nLarge Boulder x1, \nTable (any) x2, C\nash Register x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Zubat",
+    "Habitat 1 Details": "Tree-Shaded Yellow Tall Grass - \nLarge Tree (any) x1, \nYellow Tall Grass x4",
+    "Habitat 2 Details": "Park Bench - \nSeat (wide) x1, \nGarbage Bin x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Golbat",
+    "Habitat 1 Details": "Tree-Shaded Yellow Tall Grass - \nLarge Tree (any) x1, \nYellow Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Crobat",
+    "Habitat 1 Details": "Elevated Yellow Tall Grass - Yellow Tall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Trash Disposal Site - \nUtility Pole x1, \nGarbage Bags x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Meowth",
+    "Habitat 1 Details": "Resting Spot - \nCardboard Boxes x1, \nStraw Bed x1",
+    "Habitat 2 Details": "Working the Register - \nTable (any) x2, \nCash Register x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Persian",
+    "Habitat 1 Details": "Evil Organization HQ - \nPotted Plant (any) x2, \nTeam Rocket Wall Hanging x1, \nLuxury Sofa x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Psyduck",
+    "Habitat 1 Details": "Hot-spring Shower - \nShower x1, \nSeat (any) x1, \nHot-spring Water x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Golduck",
+    "Habitat 1 Details": "Hot-spring Shower - \nShower x1, \nSeat (any) x1, \nHot-spring Water x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Growlithe",
+    "Habitat 1 Details": "Perpetual Mess - \nCardboard Boxes x1, \nToy (any) x1",
+    "Habitat 2 Details": "Resort Meal Prep - \nLarge Palm Tree x1, \nSeat (any) x1, \nPlated Food x1,\nCampfire x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Arcanine",
+    "Habitat 1 Details": "Mini Museum - \nPost (any) x3, \nPedestal / Exhibition Stand x1, \nLost Relic (large) x1",
+    "Habitat 2 Details": "Magma Fishing Spot - \nFishing Rod x1, \nSeat (any) x1, \nLava x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Farfetch'd",
+    "Habitat 1 Details": "All Packed Up - \nCart x1, \nCardboard Boxes x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Grimer",
+    "Habitat 1 Details": "Marsh Fishing Spot - \nFishing Rod x1, \nSeat x1, \nMuddy Water x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Muk",
+    "Habitat 1 Details": "Marsh Fishing Spot - \nFishing Rod x1, \nSeat x1, \nMuddy Water x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gastly",
+    "Habitat 1 Details": "Spooky Study - \nBookcase x1, \nChic Sofa x1, \nPlain Table x1, \nSlender Candle x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Haunter",
+    "Habitat 1 Details": "Surprise in Store - \nBalloons x2, \nBoo-in-the-Box x1",
+    "Habitat 2 Details": "Spooky Study - \nBookcase x1, \nChic Sofa x1, \nPlain Table x1, \nSlender Candle x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gengar",
+    "Habitat 1 Details": "Surprise in Store - \nBalloons x2, \nBoo-in-the-Box x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Voltorb",
+    "Habitat 1 Details": "Park Bench - \nSeat (wide) x1, \nGarbage Bin x1",
+    "Habitat 2 Details": "Playing Pirate - \nBarrel x1, \nCannon x2, \nShip's Wheel x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Electrode",
+    "Habitat 1 Details": "Park Bench - \nSeat (wide) x1, \nGarbage Bin x1",
+    "Habitat 2 Details": "Playing Pirate - \nBarrel x1, \nCannon x2, \nShip's Wheel x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Exeggcute",
+    "Habitat 1 Details": "Tropical Vibes - \nLarge Palm Tree x1, \nSeashore Flowers x4",
+    "Habitat 2 Details": "Shaded Beach - \nLarge Palm Tree x1, \nBeach Chair x1",
+    "Habitat 3 Details": "Red Tall Grass - \nRed Tall Grass x4"
+  },
+  {
+    "Name": "Exeggutor",
+    "Habitat 1 Details": "Tropical Vibes - \nLarge Palm Tree x1, \nSeashore Flowers x4",
+    "Habitat 2 Details": "Shaded Beach - \nLarge Palm Tree x1, \nBeach Chair x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Happiny",
+    "Habitat 1 Details": "Alarm Clock Sleep Zone - \nBed (any) x1, \nTable (any) x1, \nAlarm Clock x1",
+    "Habitat 2 Details": "Working the Register - \nTable (any) x2, \nCash Register x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Chansey",
+    "Habitat 1 Details": "Full Recovery - \nBed (any) x1, \nPlain Chest x1, \nFirst Aid Kit x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Blissey",
+    "Habitat 1 Details": "Cuteness Overload -\nCute Sofa x1,\nCute Table x1,\nCute Lamp x1,\nCute Dresser x1,\nCute Bed",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Elekid",
+    "Habitat 1 Details": "Vending Machine Set - \nWaste Bin (any) x1, \nVending Machine x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Electabuzz",
+    "Habitat 1 Details": "Trash Can Central - \nGarbage Bin x4",
+    "Habitat 2 Details": "Light-Up Stage - \nSpotlight x2, \nSmall Stage x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Electivire",
+    "Habitat 1 Details": "Light-Up Stage - \nSpotlight x2, \nSmall Stage x1",
+    "Habitat 2 Details": "Vending Machine Set - \nWaste Bin (any) x1, \nVending Machine x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Lapras",
+    "Habitat 1 Details": "Tropical Seaside - \nLarge Palm Tree x1, \nHedge (any) x4, \nOcean Water x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Munchlax",
+    "Habitat 1 Details": "Bed With a Plush - \nBed (any) x1, \nDoll (any) x1",
+    "Habitat 2 Details": "Tree-shaded Snoozing Snorlax - \nLarge Tree (any) x1, \nNaptime Bed x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mosslax",
+    "Habitat 1 Details": "Gourmet's Altar -\nOffering Dish x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Snorlax",
+    "Habitat 1 Details": "Tree-shaded Snoozing Snorlax - \nLarge Tree (any) x1, \nNaptime Bed x1",
+    "Habitat 2 Details": "Good Old-fashioned Antiques - \nAntique Closet x1, \nAntique Bed x1, \nAntique Dresser x1, \nAntique Chair x1",
+    "Habitat 3 Details": "Gourmet's Altar -\nOffering Dish x1"
+  },
+  {
+    "Name": "Spinarak",
+    "Habitat 1 Details": "Yellow Tall Grass - \nYellow Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ariados",
+    "Habitat 1 Details": "Yellow Tall Grass - \nYellow Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mareep",
+    "Habitat 1 Details": "Overgrowth Vending Machine - \nYellow Tall Grass x4, \nVending Machine x1",
+    "Habitat 2 Details": "Knitting Table - \nSeat (any) x1, \nTable (any) x1, \nKnitting Supplies x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Flaaffy",
+    "Habitat 1 Details": "Night Festival Venue - \nBalloons x2, \nRaichu Sign x1",
+    "Habitat 2 Details": "Knitting Table - \nSeat (any) x1, \nTable (any) x1, \nKnitting Supplies x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ampharos",
+    "Habitat 1 Details": "Plain Life - \nPlain Bed x1,\nPlain Table x1,\nPlain Lamp x1,\nPlain Sofa x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Azurill",
+    "Habitat 1 Details": "Hydrated Yellow Tall Grass - Yellow Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Perpetual Mess - \nCardboard Boxes x1, \nToy (any) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Marill",
+    "Habitat 1 Details": "Hydrated Yellow Tall Grass - Yellow Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Dock - \nWalkway x4, \nStreetlight (any) x1, \nOcean Water x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Azumarill",
+    "Habitat 1 Details": "Dock - \nWalkway x4, \nStreetlight (any) x1, \nOcean Water x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Paldean Wooper",
+    "Habitat 1 Details": "Marshy Tall Grass - \nYellow Tall Grass x4, \nMuddy Water x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Clodsire",
+    "Habitat 1 Details": "Marshy Tall Grass - \nYellow Tall Grass x4, \nMuddy Water x2",
+    "Habitat 2 Details": "Marshy Fishing Spot - \nFishing Rod x1, \nSeat (any) x1, \nMuddy Water x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Smeargle",
+    "Habitat 1 Details": "Tiny Atelier - \nCanvas x1, \nSeat (any) x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Torchic",
+    "Habitat 1 Details": "Chirp-chirp Meal - \nWooden Birdhouse x1, \nTable (any) x1, \nPlated Food x1",
+    "Habitat 2 Details": "Resort Meal Prep - \nLarge Palm Tree x1, \nSeat (any) x1, \nPlated Food x1, \nCampfire x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Combusken",
+    "Habitat 1 Details": "Resort Meal Prep - \nLarge Palm Tree x1, \nSeat (any) x1, \nPlated Food x1, \nCampfire x1",
+    "Habitat 2 Details": "Furnace Spot - \nMetal Drum x1, \nFurnace x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Blaziken",
+    "Habitat 1 Details": "Chirp-chirp Meal - Wooden Birdhouse x1, Table (any) x1, Plated Food x1",
+    "Habitat 2 Details": "Furnace Spot - \nMetal Drum x1, \nFurnace x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Wingull",
+    "Habitat 1 Details": "Elevated Yellow Tall Grass - \nYellow Tall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Windy Flower Bed - \nWindmill x1, \nSeashore Flowers x4",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pelipper",
+    "Habitat 1 Details": "Elevated Yellow Tall Grass - \nYellow Tall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Windy Flower Bed - \nWindmill x1, \nSeashore Flowers x4",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Makuhita",
+    "Habitat 1 Details": "Tree-Shaded Yellow Tall Grass - \nLarge Tree (any) x1, \nYellow Tall Grass x4",
+    "Habitat 2 Details": "All Packed Up - \nCart x1, \nCardboard Boxes x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Hariyama",
+    "Habitat 1 Details": "Tree-Shaded Yellow Tall Grass - \nLarge Tree (any) x1, \nYellow Tall Grass x4",
+    "Habitat 2 Details": "All Packed Up - \nCart x1, \nCardboard Boxes x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Absol",
+    "Habitat 1 Details": "Welcoming Resort - \nResort Sofa x1, \nResort Table x1, \nResort Hammock x1, \nResort Light x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Piplup",
+    "Habitat 1 Details": "Hydrated Yellow Tall Grass - \nYellow Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Prinplup",
+    "Habitat 1 Details": "Hydrated Yellow Tall Grass - \nYellow Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Waterwheel Spot - \nWaterwheel x1, \nWater x2. \nWaterfall x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Empoleon",
+    "Habitat 1 Details": "Tableside Deilvery Cart - \nChic Chair x2, \nChic Table x1, \nSmall Vase x1, \nPush Cart x1, \nPlated Food x1",
+    "Habitat 2 Details": "Waterwheel Spot - \nWaterwheel x1, \nWater x2. \nWaterfall x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Audino",
+    "Habitat 1 Details": "Working the Register - \nTable (any) x2, \nCash Register x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Trubbish",
+    "Habitat 1 Details": "Trash Collection Site - \nWaste Bin (any) x1, \nSign (any) x1, \nGarbage Bags x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Garbodor",
+    "Habitat 1 Details": "Trash Collection Site - \nWaste Bin (any) x1, \nSign (any) x1, \nGarbage Bags x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Zorua",
+    "Habitat 1 Details": "Breezy Flower Bed - \nSeashore Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Zoroark",
+    "Habitat 1 Details": "Breezy Flower Bed - \nSeashore Flowers x4",
+    "Habitat 2 Details": "Surprise in Store - \nBalloons x2, \nBoo-in-the-Box x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Minccino",
+    "Habitat 1 Details": "Changing Area - \nCloset (any) x1, \nMirror (large) x1",
+    "Habitat 2 Details": "Private Makeup Stand - \nPartition (any) x2, \nCloset (any) x1, \nDresser (any) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cinccino",
+    "Habitat 1 Details": "Private Makeup Stand - \nPartition (any) x2, \nCloset (any) x1, \nDresser (any) x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Grubbin",
+    "Habitat 1 Details": "Yellow Tall Grass - \nYellow Tall Grass x4",
+    "Habitat 2 Details": "Vending Machine Break Area - \nVending Machine x1, \nSeat (wide) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Charjabug",
+    "Habitat 1 Details": "Vending Machine Break Area - \nVending Machine x1, \nSeat (wide) x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Vikavolt",
+    "Habitat 1 Details": "Tree-shaded Flower Bed - \nBerry Tree (any) x1, \nWildflowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mimikyu",
+    "Habitat 1 Details": "Pikachu Space - \nPikachu Sofa x1, \nPikachu Doll x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pawmi",
+    "Habitat 1 Details": "Breezy Flower Bed - \nSeashore Flowers x4",
+    "Habitat 2 Details": "Tantalizing Restaurant - \nSeat (any) x1, \nMenu Board x1, \nTable (any) x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pawmo",
+    "Habitat 1 Details": "Tantalizing Restaurant - \nSeat (any) x1, \nMenu Board x1, \nTable (any) x1, \nPlated Food x1",
+    "Habitat 2 Details": "Cafe Space - \nSeat (any) x1, \nPotted Plant (any) x1, \nCounter x2, \nMug x1, \nMenu Board x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pawmot",
+    "Habitat 1 Details": "Cafe Space - \nSeat (any) x1, \nPotted Plant (any) x1, \nCounter x2, \nMug x1, \nMenu Board x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tatsugiri Curly Form",
+    "Habitat 1 Details": "Beach Set - \nBeach Chair x1, \nBeach Parasol x1, \nSide Table x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tatsugiri Droopy Form",
+    "Habitat 1 Details": "Beach Set - \nBeach Chair x1, \nBeach Parasol x1, \nSide Table x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tatsugiri Stretchy Form",
+    "Habitat 1 Details": "Beach Set - \nBeach Chair x1, \nBeach Parasol x1, \nSide Table x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ekans",
+    "Habitat 1 Details": "Hydrated Graceful Flower Bed - \nMoutain Flowers x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Arbok",
+    "Habitat 1 Details": "Hydrated Graceful Flower Bed - \nMoutain Flowers x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cleffa",
+    "Habitat 1 Details": "Graceful Flower Bed - \nMountain Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Clefairy",
+    "Habitat 1 Details": "Graceful Flower Bed - \nMountain Flowers x4",
+    "Habitat 2 Details": "Bronze Landmark - \nHedge (any) x4, \nMoonlight Dance Statue x1, \nSign x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Clefable",
+    "Habitat 1 Details": "Graceful Flower Bed - \nMountain Flowers x4",
+    "Habitat 2 Details": "Bronze Landmark - \nHedge (any) x4, \nMoonlight Dance Statue x1, \nSign x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Igglybuff",
+    "Habitat 1 Details": "Flower Garden Stump Stage - \nMountain Flowers x4. \nTree Stump (any) x1, \nMushroom Lamp x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Jigglypuff",
+    "Habitat 1 Details": "Flower Garden Stump Stage - \nMountain Flowers x4. \nTree Stump (any) x1, \nMushroom Lamp x2",
+    "Habitat 2 Details": "Recital Stage - \nSpeaker x2, \nSmall Stage x1, \nStanding Mic x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Wigglytuff",
+    "Habitat 1 Details": "Recital Stage - \nSpeaker x2, \nSmall Stage x1, \nStanding Mic x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Diglett",
+    "Habitat 1 Details": "Tree-shaded Red Tall Grass - \nLarge Tree (any) x1, \nRed Tall Grass x4",
+    "Habitat 2 Details": "Container Snacking - \nBarrel x1, \nWooden Crate x1, \nLantern x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dugtrio",
+    "Habitat 1 Details": "Tree-shaded Red Tall Grass - \nLarge Tree (any) x1, \nRed Tall Grass x4",
+    "Habitat 2 Details": "House Party - \nFood Counter x1, \nPaper Party Cups x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Machop",
+    "Habitat 1 Details": "Boulder-shaded tall grass - \nTall Grass x4, \nLarge Boulder x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Machoke",
+    "Habitat 1 Details": "Grassy Training Field - Sandbags x2, \nRed Tall Grass x4",
+    "Habitat 2 Details": "Box to the Rhythm - \nPunching Bag x1, \nTable (any) x1, \nCD Player x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Machamp",
+    "Habitat 1 Details": "Grassy Training Field - Sandbags x2, \nRed Tall Grass x4",
+    "Habitat 2 Details": "Clink-clang Iron Construction - \nIron beam or column x3, \nWheelbarrow x1, \nSandbags x1, \nExcavation Tools x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Geodude",
+    "Habitat 1 Details": "Tall Grass - \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Graveler",
+    "Habitat 1 Details": "Mossy Boulder - \nMoss x4, \nMossy Boulder x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Golem",
+    "Habitat 1 Details": "Mossy Boulder - \nMoss x4, \nMossy Boulder x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Magby",
+    "Habitat 1 Details": "Pretty Flower Bed - \nWildflowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Magmar",
+    "Habitat 1 Details": "Digging and Burning - \nWheelbarrow x1, \nSmelting Furnace x1, \nExcavation Tools x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Magmortar",
+    "Habitat 1 Details": "Mini Kitchen - \nKItchen Table x1, \nCooking Stove x1, \nFrying Pan x1, \nModern Sink x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Bonsly",
+    "Habitat 1 Details": "Tree-shaded Red Tall Grass - \nLarge Tree (any) x1, \nRed Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Sudowoodo",
+    "Habitat 1 Details": "Tree-shaded Red Tall Grass - \nLarge Tree (any) x1, \nRed Tall Grass x4",
+    "Habitat 2 Details": "House Party - \nFood Counter x1, \nPaper Party Cups x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Murkrow",
+    "Habitat 1 Details": "Elevated Red Tall Grass - \nRed Tall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Tree-shaded Graceful Flower Bed - \nMountain Flowers x4, \nPointy Tree x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Honchkrow",
+    "Habitat 1 Details": "Elevated Red Tall Grass - \nRed Tall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Chirping Recital - \nPerch x1, \nStanding Mic x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Larvitar",
+    "Habitat 1 Details": "Mossy Rest Spot - \nMoss x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Pupitar",
+    "Habitat 1 Details": "Tree-shaded Pink Tall Grass - \nLarge Tree (any), \nPink Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tyranitar",
+    "Habitat 1 Details": "Toil in the Soil - \nVegetable Field (any) x4, \nWheelbarrow x1",
+    "Habitat 2 Details": "Mossy Rest Spot - \nMoss x4",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Lotad",
+    "Habitat 1 Details": "Hydrated Red Tall Grass - \nRed Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Uplifting Duckweed - \nDuckweed x4, \nWater x2",
+    "Habitat 3 Details": "Hot-spring Fishing Spot - \nFishing Rod x1, \nSeat (any) x1, \nHot-spring Water x1"
+  },
+  {
+    "Name": "Lombre",
+    "Habitat 1 Details": "Hydrated Red Tall Grass - \nRed Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Hot-spring Fishing Spot - \nFishing Rod x1, \nSeat (any) x1, \nHot-spring Water x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ludicolo",
+    "Habitat 1 Details": "Uplifting Duckweed - \nDuckweed x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mawile",
+    "Habitat 1 Details": "Working the Register - \nTable (any) x2, \nCash Register x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Torkoal",
+    "Habitat 1 Details": "Mossy Hot Spring\nMoss x4, \nHot-spring Water x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Kricketot",
+    "Habitat 1 Details": "Red Tall Grass - \nRed Tall Grass x4",
+    "Habitat 2 Details": "Music and Magazines - \nCD Player x1, \nCD Rack x1, \nMagazine Rack x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Kricketune",
+    "Habitat 1 Details": "Music and Magazines - \nCD Player x1, \nCD Rack x1, \nMagazine Rack x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Chatot",
+    "Habitat 1 Details": "Elevated Red Tall Grass - \nRed Tall Grass x4, \nHigh-up Location",
+    "Habitat 2 Details": "Chirping Recital - \nPerch x1, \nStanding Mic x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Riolu",
+    "Habitat 1 Details": "Red Tall Grass - \nRed Tall Grass x4",
+    "Habitat 2 Details": "Box to the Rhythm - \nPunching Bag x1, \nTable (any) x1, \nCD Player x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Lucario",
+    "Habitat 1 Details": "Box to the Rhythm - \nPunching Bag x1, \nTable (any) x1, \nCD Player x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Stereo Rotom",
+    "Habitat 1 Details": "Music and Magazines - \nCD Player x1, \nCD Rack x1, \nMagazine Rack x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Larvesta",
+    "Habitat 1 Details": "Tree-shaded Graceful Flower Bed - \nMountain Flowers x4, \nPointy Tree x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Volcarona",
+    "Habitat 1 Details": "Tree-shaded Graceful Flower Bed - \nMountain Flowers x4, \nPointy Tree x1",
+    "Habitat 2 Details": "Piping-hot Lava - \nMolten Rock x1, \nLava x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Rowlet",
+    "Habitat 1 Details": "Fresh Veggie Field - \nVegetable Field (any) x8)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dartrix",
+    "Habitat 1 Details": "Pointy Tree-shaded Rocky Tall Grass - \nPointy Tree x1, \nRed Tall Grass x4, \nLarge Boulder x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Decidueye",
+    "Habitat 1 Details": "Pointy Tree-shaded Rocky Tall Grass - \nPointy Tree x1, \nRed Tall Grass x4, \nLarge Boulder x1",
+    "Habitat 2 Details": "Modern Living - \nIndustrial Bed x1, \nIndustrial Desk x1, \nIndustrial Chair x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Scorbunny",
+    "Habitat 1 Details": "Red Tall Grass - \nRed Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Raboot",
+    "Habitat 1 Details": "Open-air Bath - \nHot-srping Spout x1, \nHot-srping water x2",
+    "Habitat 2 Details": "Refreshing Locker Room - \nOffice Locker x2, \nPotted Plant (any) x1, \nSeat (wide) x1, \nPunching Game x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cinderace",
+    "Habitat 1 Details": "Red Tall Grass - \nRed Tall Grass x4",
+    "Habitat 2 Details": "Refreshing Locker Room - \nOffice Locker x2, \nPotted Plant (any) x1, \nSeat (wide) x1, \nPunching Game x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Skwovet",
+    "Habitat 1 Details": "Tree-shaded Tall Grass - \nLarge Tree (any) x1, \nTall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Greedent",
+    "Habitat 1 Details": "Chef's Kitchen - \nCooking Stove x1, \nModern Sink x1, \nPlain Tabe x1, \nStylish Cooking Pot x1, \nCutting Board x1, \nPlated Food x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Rolycoly",
+    "Habitat 1 Details": "Railroad Crossing - \nRailway Track x1, \nCrossing gate x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Carkol",
+    "Habitat 1 Details": "Railroad Crossing - \nRailway Track x1, \nCrossing gate x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Coalossal",
+    "Habitat 1 Details": "Railroad Crossing - \nRailway Track x1, \nCrossing gate x1",
+    "Habitat 2 Details": "Heavy Iron\nIron Bed x1,\nIron Chair x1,\nIron Table x1,\nLantern x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Toxel",
+    "Habitat 1 Details": "Lazy Photo-album Scrolling - \nTablet x1, \nPaper Party Cups x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Toxtricity Amped Form",
+    "Habitat 1 Details": "Amped Rock Stage - \nSpeaker x2, \nSmall Stage x1, \nStanding Mic x1, \nCool Electric Guitar",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Toxtricity Low Key Form",
+    "Habitat 1 Details": "Low Key Rock Stage - \nSpeaker x2, \nSmall Stage x1, \nStanding Mic x1, \nCool Bass Guitar x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Fidough",
+    "Habitat 1 Details": "Graceful Flower Bed - \nMountain Flowers x4",
+    "Habitat 2 Details": "Best Bread Bakery - \nBread Oven x1, \nCounter x2, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dachsbun",
+    "Habitat 1 Details": "Graceful Flower Bed - \nMountain Flowers x4",
+    "Habitat 2 Details": "Best Bread Bakery - \nBread Oven x1, \nCounter x2, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Charcadet",
+    "Habitat 1 Details": "Piping-hot Lava - \nMolten Rock x1, \nLava x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Armarouge",
+    "Habitat 1 Details": "Auspicious Knight's Shrine - \nPedestal / Exhibition Stand x1, \nAuspicious Armor x1, \nStepping Stones x2, \nFirepit x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ceruledge",
+    "Habitat 1 Details": "Malicious Knight's Shrine - \nPedestal / Exhibition Stand x1, \nMalicious Armor x1, \nStepping Stones x2, \nFirepit x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Glimmet",
+    "Habitat 1 Details": "Creepy White Rocks - Stalagmites x1, \nMoss x4, \nWooden Crate x1, \nLantern x1",
+    "Habitat 2 Details": "Container Snacking - \nBarrel x1, \nWooden Crate x1, \nLantern x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Glimmora",
+    "Habitat 1 Details": "Creepy White Rocks - Stalagmites x1, \nMoss x4, \nWooden Crate x1, \nLantern x1",
+    "Habitat 2 Details": "Container Snacking - \nBarrel x1, \nWooden Crate x1, \nLantern x1, \nPlated Food x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gimmighoul",
+    "Habitat 1 Details": "Mini Museum - \nPost (any) x3, \nPedestal / Exhibition Stand x1, \nLost Relic (large) x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gholdengo",
+    "Habitat 1 Details": "Absolute Luxury\nLuxury Bed x1,\nLuxury Sofa x1,\nLuxury Table x1,\nLuxury Lamp",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Vulpix",
+    "Habitat 1 Details": "Fluffy Flower Bed - \nSkyland Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ninetales",
+    "Habitat 1 Details": "Fluffy Flower Bed - \nSkyland Flowers x4",
+    "Habitat 2 Details": "Nine Flames - \nFirepit x9",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Poliwag",
+    "Habitat 1 Details": "Squeaky Clean - \nBathtub x1, \nCleaning Supplies x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Poliwhirl",
+    "Habitat 1 Details": "Hydrated Fluffy Flower Bed -\nSkyland Flowers x4,\nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Poliwrath",
+    "Habitat 1 Details": "Sewer-hole Inspection - \nIron Pipes x1, \nSewer-hole Cover x1, \nExcavation Tools x1, \nTraffic Cone x1",
+    "Habitat 2 Details": "Dojo Training - \nHanging Scroll x2, \nStrength Rock x2",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Politoed",
+    "Habitat 1 Details": "Hydrated Graceful Flower Bed - \nMoutain Flowers x4, \nWater x2",
+    "Habitat 2 Details": "Flower Garden Stump Stage - \nMountain Flowers x4,\nTree Stump (any) x1, \nMushroom Lamp x2",
+    "Habitat 3 Details": "Harmonious Hot Spring - \nHot-spring Spot x1, \nWater basin x1, \nHot-spring Water x2"
+  },
+  {
+    "Name": "Abra",
+    "Habitat 1 Details": "Surging Psychic Power - \nSimple Cushion x1, \nCrystal Ball x1",
+    "Habitat 2 Details": "Fortune-teller's Table - \nSeat (any) x1, \nTable (any) x1, \nCrystal Ball x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Kadabra",
+    "Habitat 1 Details": "Fortune-teller's Table - \nSeat (any) x1, \nTable (any) x1, \nCrystal Ball x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Alakazam",
+    "Habitat 1 Details": "Surging Psychic Power - \nSimple Cushion x1, \nCrystal Ball x1",
+    "Habitat 2 Details": "Experiment Space - \nScience Experiment x1, \nMicroscope x1, \nPapers x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mime Jr.",
+    "Habitat 1 Details": "Spotless Washing Station - Towel Rack x1, \nWall Mirror x1, \nSink x1",
+    "Habitat 2 Details": "Public Reading Material -\nMagazine Rack x1,\nNewspaper x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mr. Mime",
+    "Habitat 1 Details": "Spotless Washing Station - Towel Rack x1, \nWall Mirror x1, \nSink x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Porygon",
+    "Habitat 1 Details": "Researcher's Desk - \nTable (any) x2, \nComputer x1, \nScience Experiment x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Porygon2",
+    "Habitat 1 Details": "Work Desk -\nOffice Desk x1,\nOffice Chair x1,\nMug x1,\nLaptop x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Porygon-Z",
+    "Habitat 1 Details": "Game Corner Battle Zone - Arcade Machine x2, \nSeat (any) x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dratini",
+    "Habitat 1 Details": "Hydrated Fluffy Flower Bed - Skyland Flowers x4, \nWater x2",
+    "Habitat 2 Details": "Simple Bathroom - \nShower x1, \nBathtub x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dragonair",
+    "Habitat 1 Details": "Hydrated Fluffy Flower Bed - Skyland Flowers x4, \nWater x2",
+    "Habitat 2 Details": "Simple Bathroom - \nShower x1, \nBathtub x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dragonite",
+    "Habitat 1 Details": "Waterside Dinghy - \nCanoe x1, \nDuckweed x2, \nWater x2, \nHigh-up Location",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cyndaquil",
+    "Habitat 1 Details": "Concrete Pipe Secret Base - \nConcrete Pipe x2, \nTall Grass (any) x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Quilava",
+    "Habitat 1 Details": "Concrete Pipe Secret Base - \nConcrete Pipe x2, \nTall Grass (any) x4",
+    "Habitat 2 Details": "Fireplace Nap Spot - \nStone Fireplace x1, \nSeat (wide) x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Typhlosion",
+    "Habitat 1 Details": "Fireplace Nap Spot - \nStone Fireplace x1, \nSeat (wide) x1",
+    "Habitat 2 Details": "Top Pop - \nPop Art Bed x1, \nPop Art Sofa x1, \nPop Art Table x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Misdreavus",
+    "Habitat 1 Details": "Fluffy Flower Bed - \nSkyland Flowers x4",
+    "Habitat 2 Details": "Office Storeroom - \nOffice Shelf x1, \nStep Stool x1, \nCardboard Boxes x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mismagius",
+    "Habitat 1 Details": "Fluffy Flower Bed - \nSkyland Flowers x4",
+    "Habitat 2 Details": "Home Theater\nStand x1,\nTelevision x1,\nSpeaker x2",
+    "Habitat 3 Details": "Office Storeroom - \nOffice Shelf x1, \nStep Stool x1, \nCardboard Boxes x1"
+  },
+  {
+    "Name": "Girafarig",
+    "Habitat 1 Details": "Tree-shaded Fluffy Flower Bed - \nLarge Tree (any) x1, \nSkyland Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Farigiraf",
+    "Habitat 1 Details": "Tree-shaded Fluffy Flower Bed - \nLarge Tree (any) x1, \nSkyland Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ralts",
+    "Habitat 1 Details": "Study Area - \nBookcase x1, \nSeat (any) x1, \nTable (any) x1, \nPencil Holder x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Kirlia",
+    "Habitat 1 Details": "Study Area - \nBookcase x1, \nSeat (any) x1, \nTable (any) x1, \nPencil Holder x1",
+    "Habitat 2 Details": "Moisturizing Makeup Stand - \nDresser (any) x1, \nSeat (any) x1, \nHumidifier x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gardevoir",
+    "Habitat 1 Details": "Moisturizing Makeup Stand - \nDresser (any) x1, \nSeat (any) x1, \nHumidifier x1",
+    "Habitat 2 Details": "Study Area - \nBookcase x1, \nSeat (any) x1, \nTable (any) x1, \nPencil Holder x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Gallade",
+    "Habitat 1 Details": "Dojo Training - \nHanging Scroll x2, \nStrength Rock x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Plusle",
+    "Habitat 1 Details": "Picturesque Photo Cutout Board -\nPhoto Cutout Board x1,\nSpotlight x2,\nHigh-up Location",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Minun",
+    "Habitat 1 Details": "Picturesque Photo Cutout Board -\nPhoto Cutout Board x1,\nSpotlight x2,\nHigh-up Location",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Trapinch",
+    "Habitat 1 Details": "Pink Tall Grass - \nPink Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Vibrava",
+    "Habitat 1 Details": "Pink Tall Grass - \nPink Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Flygon",
+    "Habitat 1 Details": "Pink Tall Grass - \nPink Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Swablu",
+    "Habitat 1 Details": "Pink Tall Grass - \nPink Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Altaria",
+    "Habitat 1 Details": "Birdsong Garden - \nStylish Hedge x1, \nWooden Birdhouse x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Duskull",
+    "Habitat 1 Details": "Pink Tall Grass - \nPink Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dusclops",
+    "Habitat 1 Details": "Trash Site TV - \nGarbage Bags x2, \nTelevision x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dusknoir",
+    "Habitat 1 Details": "Trash Site TV - \nGarbage Bags x2, \nTelevision x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Beldum",
+    "Habitat 1 Details": "Cycling Rest Stop - \nBike x1, \nVending Machine x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Metang",
+    "Habitat 1 Details": "Professor's Apprentice Program - \nWhiteboard x1, \nTable (any) x1,\nJumbled Cords x1, \nLaptop x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Metagross",
+    "Habitat 1 Details": "Gamer's Paradise - \nGaming Bed x1, \nTable (any) x1, \nGaming PC x1, \nGaming Fridge x1, \nGaming Chair x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Snivy",
+    "Habitat 1 Details": "Playland - \nSlide x1, \nToy (any) x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Servine",
+    "Habitat 1 Details": "Tree-shaded Fluffy Flower Bed - Large Tree (any) x1, \nSkyland Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Serperior",
+    "Habitat 1 Details": "Tree-shaded Fluffy Flower Bed - Large Tree (any) x1, \nSkyland Flowers x4",
+    "Habitat 2 Details": "Public Reading Material - Magazine Rack x1, \nNewspaper x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Froakie",
+    "Habitat 1 Details": "Hydrated Pink Tall Grass - \nPink Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Frogadier",
+    "Habitat 1 Details": "Hydrated Pink Tall Grass - \nPink Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Prank Button - \nFloor Switch x1, \nBoo-in-the-Box x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Greninja",
+    "Habitat 1 Details": "Hydrated Pink Tall Grass - \nPink Tall Grass x4, \nWater x2",
+    "Habitat 2 Details": "Prank Button - \nFloor Switch x1, \nBoo-in-the-Box x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dedenne",
+    "Habitat 1 Details": "Tire Park - \nSlide x1, \nTires x1, \nTire Toy x2",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Noibat",
+    "Habitat 1 Details": "Rhythmic Living Room - Speaker x2, \nMusic Mat (any) x4, \nTelevision x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Noivern",
+    "Habitat 1 Details": "Rhythmic Living Room - Speaker x2, \nMusic Mat (any) x4, \nTelevision x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Rookidee",
+    "Habitat 1 Details": "Fluffy Flower Bed - \nSkyland Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Corvisquire",
+    "Habitat 1 Details": "Elevated Pink Tall Grass - \nPink Tall Grass x4, \nHigh-up Location x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Corviknight",
+    "Habitat 1 Details": "Elevated Pink Tall Grass - \nPink Tall Grass x4, \nHigh-up Location x1",
+    "Habitat 2 Details": "Sewer-hole Inspection - \nIron Pipes x1, \nSewer-hole Cover x1, \nExcavation Tools x1, \nTraffic Cone x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dreepy",
+    "Habitat 1 Details": "Tree-shaded Pink Tall Grass - Large Tree (any), \nPink Tall Grass x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Drakloak",
+    "Habitat 1 Details": "Tree-shaded Pink Tall Grass - Large Tree (any), \nPink Tall Grass x4",
+    "Habitat 2 Details": "Office Storeroom - \nOffice Shelf x1, \nStep Stool x1, \nCardboard Boxes x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Dragapult",
+    "Habitat 1 Details": "Office Storeroom - \nOffice Shelf x1, \nStep Stool x1, \nCardboard Boxes x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Sprigatito",
+    "Habitat 1 Details": "Tree-shaded Pink Tall Grass - Large Tree (any), \nPink Tall Grass x4",
+    "Habitat 2 Details": "Interrogation Desk - \nArcanine Doll x1, \nFolding Chair x2, \nIndustrial Desk x1, \nDesk Light x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Floragato",
+    "Habitat 1 Details": "Interrogation Desk - \nArcanine Doll x1, \nFolding Chair x2, \nIndustrial Desk x1, \nDesk Light x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Meowscarada",
+    "Habitat 1 Details": "Heart-Pounding Surprise Box -\nSpotlight x2,\nBoo-in-the-box x1,\nBig Drum x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Wattrel",
+    "Habitat 1 Details": "Elevated Pink Tall Grass - \nPink Tall Grass x4, \nHigh-up Location x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Kilowattrel",
+    "Habitat 1 Details": "Elevated Pink Tall Grass - \nPink Tall Grass x4, \nHigh-up Location x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tinkatink",
+    "Habitat 1 Details": "Large Luggage Carrier\nCart x1, \nWooden Crate x2",
+    "Habitat 2 Details": "Oversized Dumping Ground\nIron Beam or Column x3,\nWaste Bin (any) x1,\nTires x1,\nMicrowave Oven x1",
+    "Habitat 3 Details": "Sewer-hole Inspection - \nIron Pipes x1, \nSewer-hole Cover x1, \nExcavation Tools x1, \nTraffic Cone x1"
+  },
+  {
+    "Name": "Tinkatuff",
+    "Habitat 1 Details": "Large Luggage Carrier\nCart x1, \nWooden Crate x2",
+    "Habitat 2 Details": "Sewer-hole Inspection - \nIron Pipes x1, \nSewer-hole Cover x1, \nExcavation Tools x1, \nTraffic Cone x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tinkaton",
+    "Habitat 1 Details": "Oversized Dumping Ground\nIron Beam or Column x3,\nWaste Bin (any) x1,\nTires x1,\nMicrowave Oven x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Aerodactyl",
+    "Habitat 1 Details": "Wing Fossil Display - \nPedestal / Exhibition Stand x2, \nWing Fossil (Head, Body, Right Wing, Left Wing, Tail)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Cranidos",
+    "Habitat 1 Details": "Skull Fossil Display - \nPedestal / Exhibition Stand x1, \nSkull Fossil x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Rampardos",
+    "Habitat 1 Details": "Headbut Fossil Display - \nPedestal / Exhibition Stand x2, \nHeadbut Fossil (Head, Body, Tail)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Shieldon",
+    "Habitat 1 Details": "Armor Fossil Display - \nPedestal / Exhibition Stand x1, \nArmor Fossil x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Bastiodon",
+    "Habitat 1 Details": "Shield Fossil Display - \nPedestal / Exhibition Stand x2, \nShield Fossil (Head, Body, Tail)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tyrunt",
+    "Habitat 1 Details": "Jaw Fossil Display - \nPedestal / Exhibition Stand x1, \nJaw Fossil x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Tyrantrum",
+    "Habitat 1 Details": "Despot Fossil Display - \nPedestal / Exhibition Stand x1, \nDespot Fossil (Head, Body, Legs, Tail)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Amaura",
+    "Habitat 1 Details": "Sail Fossil Display - \nPedestal / Exhibition Stand x1, \nSail Fossil x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Aurorus",
+    "Habitat 1 Details": "Tundra Fossil Display - \nPedestal / Exhibition Stand x2, \nTundra Fossil (Head, Body, Tail)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Eevee",
+    "Habitat 1 Details": "Pretty Flower Bed - \nWildflowers x4 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Vaporeon",
+    "Habitat 1 Details": "Boundless Blue Beverage - \nSeat (any) x1, \nTable (any) x1, \nSoda Float x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Jolteon",
+    "Habitat 1 Details": "Electrifying Potatoes - \nSeat (any) x1, \nTable (any) x1, \nFried Potatoes x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Flareon",
+    "Habitat 1 Details": "Burning-hot Spice - \nSeat (any) x1, \nTable (any) x1, \nPizza x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Espeon",
+    "Habitat 1 Details": "Elegant Daytime Treats - \nSeat (any) x1, \nTable (any) x1, \nAfternoon Tea Set x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Umbreon",
+    "Habitat 1 Details": "Dark-chocolate Cookies - \nSeat (any) x1, \nTable (any) x1, \nChocolate Cookies x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Leafeon",
+    "Habitat 1 Details": "Leafy Greens Sandwich - \nSeat (any) x1, \nTable (any) x1, \nSandwiches x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Glaceon",
+    "Habitat 1 Details": "Chilly Shaved Ice - \nSeat (any) x1, \nTable (any) x1, \nShaved Ice x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Sylveon",
+    "Habitat 1 Details": "Lovely Ribbon Cake - \nSeat (any) x1, \nTable (any) x1, \nRibbon Cake x1 \n(Palette Town Only)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Kyogre",
+    "Habitat 1 Details": "N/A \n(found via Withered Wasteland mission)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Raikou",
+    "Habitat 1 Details": "N/A \n(found via Pikachu Doll)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Entei",
+    "Habitat 1 Details": "N/A \n(found via Arcanine Doll)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Suicune",
+    "Habitat 1 Details": "N/A \n(found via Eevee Doll)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Volcanion",
+    "Habitat 1 Details": "N/A \n(Found via Rocky Ridges Mission)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Articuno",
+    "Habitat 1 Details": "N/A \n(must build Frozen Chambers)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Zapdos",
+    "Habitat 1 Details": "N/A\n(must build Abandoned Power Plant)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Moltres",
+    "Habitat 1 Details": "N/A \n(must build Altar of Flame)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Lugia",
+    "Habitat 1 Details": "N/A \n(use Clear Bell)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Ho-Oh",
+    "Habitat 1 Details": "N/A \n(use Tidal Bell)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mewtwo",
+    "Habitat 1 Details": "N/A \n(found via Dragonite Doll)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Mew",
+    "Habitat 1 Details": "N/A \n(found via Mysterious Slate Puzzle)",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Hoppip",
+    "Habitat 1 Details": "Yellow Carpet -\nDandy Flowers x4",
+    "Habitat 2 Details": "Field-Trip Friends -\nFlower Backpack x1,\nLunchbox x1,\nHoppip Water Bottle x1",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Skiploom",
+    "Habitat 1 Details": "Yellow Carpet -\nDandy Flowers x4",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Jumpluff",
+    "Habitat 1 Details": "Dandelion Lunchtime -\nDandy Flower x1,\nLunch Box x1,\nFlower Cushion x1,\nFlowery Table Setting x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  },
+  {
+    "Name": "Sableye",
+    "Habitat 1 Details": "Treasure-hunting Set -\nAdventure Kit x1,\nMap and Compass x1,\nTreasure x1",
+    "Habitat 2 Details": "N/A",
+    "Habitat 3 Details": "N/A"
+  }
+]

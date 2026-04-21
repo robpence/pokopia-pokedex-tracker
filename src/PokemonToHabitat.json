@@ -1,0 +1,1874 @@
+[
+  {
+    "Name": "Bulbasaur",
+    "Habitat1": "Tall Grass ",
+    "Habitat2": "Bench with Greenery ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ivysaur",
+    "Habitat1": "Field of Flowers ",
+    "Habitat2": "Bench with Greenery ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Venusaur",
+    "Habitat1": "Field of Flowers ",
+    "Habitat2": "Garden Terrace ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Charmander",
+    "Habitat1": "Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Charmeleon",
+    "Habitat1": "Campsite ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Charizard",
+    "Habitat1": "Tall Grass ",
+    "Habitat2": "Berry-fest Campsite ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Squirtle",
+    "Habitat1": "Tall Grass ",
+    "Habitat2": "Hydrated Tall Grass ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Wartortle",
+    "Habitat1": "Hydrated Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Blastoise",
+    "Habitat1": "Hydrated Tall Grass ",
+    "Habitat2": "Floating in the Shade ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pidgey",
+    "Habitat1": "Elevated Tall Grass ",
+    "Habitat2": "Pretty Flower Bed ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pidgeotto",
+    "Habitat1": "Elevated Tall Grass ",
+    "Habitat2": "Pretty Flower Bed ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pidgeot",
+    "Habitat1": "Luxury Chirp-Chirp Meal",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Oddish",
+    "Habitat1": "Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gloom",
+    "Habitat1": "Tropical Vibes ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Vileplume",
+    "Habitat1": "Chansey Resting Area ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Bellossom",
+    "Habitat1": "Chansey Resting Area ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Paras",
+    "Habitat1": "Elevated Flower Bed ",
+    "Habitat2": "Flower Garden ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Parasect",
+    "Habitat1": "Elevated Flower Bed ",
+    "Habitat2": "Flower Garden ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Venonat",
+    "Habitat1": "Illuminated Tall Grass ",
+    "Habitat2": "Illuminated Bench ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Venomoth",
+    "Habitat1": "Illuminated Tall Grass ",
+    "Habitat2": "Illuminated Bench ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Bellsprout",
+    "Habitat1": "Tree-shaded Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Weepinbell",
+    "Habitat1": "Flowery Table ",
+    "Habitat2": "Irresistable Scent and Glow ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Victreebel",
+    "Habitat1": "Flowery Table ",
+    "Habitat2": "Irresistable Scent and Glow ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Slowpoke",
+    "Habitat1": "Seaside Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Slowbro",
+    "Habitat1": "Seaside Tall Grass ",
+    "Habitat2": "Bed With a Plush ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Slowking",
+    "Habitat1": "Seaside Tall Grass ",
+    "Habitat2": "Bed With a Plush ",
+    "Habitat3": "Fishing Pond "
+  },
+  {
+    "Name": "Magnemite",
+    "Habitat1": "Factory Storage ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Magneton",
+    "Habitat1": "Trash Can Central",
+    "Habitat2": "Mini Game Corner ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Magnezone",
+    "Habitat1": "Trash Can Central",
+    "Habitat2": "Mini Game Corner ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Onix",
+    "Habitat1": "Smooth Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Steelix",
+    "Habitat1": "Clink-clang Iron Construction ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cubone",
+    "Habitat1": "Grave with Flowers ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Marowak",
+    "Habitat1": "Grave with Flowers ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tyrogue",
+    "Habitat1": "Training Waterfall ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Hitmonlee",
+    "Habitat1": "Urgent Care ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Hitmonchan",
+    "Habitat1": "Exercise Resting Spot ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Hitmontop",
+    "Habitat1": "Gym First Aid ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Koffing",
+    "Habitat1": "Trash Collection Site ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Weezing",
+    "Habitat1": "Good Old-Fashioned Antiques",
+    "Habitat2": "Trash Collection Site ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tangela",
+    "Habitat1": "Nothin' But Poke Balls ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Professor Tangrowth",
+    "Habitat1": "N/A",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tangrowth",
+    "Habitat1": "Bench with Greenery ",
+    "Habitat2": "Professor's Treasure Trove ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Scyther",
+    "Habitat1": "Tree-shaded Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Scizor",
+    "Habitat1": "Tree-shaded Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pinsir",
+    "Habitat1": "Tree-shaded Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Magikarp",
+    "Habitat1": "Ocean Fishing Spot ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gyarados",
+    "Habitat1": "Illuminated Waterfall ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ditto",
+    "Habitat1": "N/A",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Hoothoot",
+    "Habitat1": "Elevated Tall Grass ",
+    "Habitat2": "Pretty Flower Bed ",
+    "Habitat3": "Gently Lit Bed "
+  },
+  {
+    "Name": "Noctowl",
+    "Habitat1": "Elevated Tall Grass ",
+    "Habitat2": "Gently Lit Bed ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Heracross",
+    "Habitat1": "Tree-shaded Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Volbeat",
+    "Habitat1": "Hydrated Flower Bed",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Illumise",
+    "Habitat1": "Hydrated Flower Bed",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gulpin",
+    "Habitat1": "Tantalizing Dining Set ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Swalot",
+    "Habitat1": "Dinner Table Surprise ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cacnea",
+    "Habitat1": "Sunny Day Site ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cacturne",
+    "Habitat1": "Tree-shaded Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Combee",
+    "Habitat1": "Pretty Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Vespiquen",
+    "Habitat1": "Field of Flowers ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Shellos",
+    "Habitat1": "Road Sign ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Shellos East Sea",
+    "Habitat1": "Road Sign ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gastrodon",
+    "Habitat1": "Ocean Fishing Spot ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gastrodon East Sea",
+    "Habitat1": "Ocean Fishing Spot ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Drifloon",
+    "Habitat1": "Riding Warm Updrafts",
+    "Habitat2": "Bed with a Plush ",
+    "Habitat3": "Plush Central "
+  },
+  {
+    "Name": "Drifblim",
+    "Habitat1": "Plush Central ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Drilbur",
+    "Habitat1": "Fresh Veggie Field ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Excadrill",
+    "Habitat1": "Fresh Veggie Field ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Timburr",
+    "Habitat1": "Boulder-shaded tall grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gurdurr",
+    "Habitat1": "Boulder-shaded tall grass ",
+    "Habitat2": "Large Luggage Carrier",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Conkeldurr",
+    "Habitat1": "Construction Site Generator",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Litwick",
+    "Habitat1": "Grave Offering ",
+    "Habitat2": "Creepy Grave Offering ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Lampent",
+    "Habitat1": "Grave Offering ",
+    "Habitat2": "Creepy Grave Offering ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Chandelure",
+    "Habitat1": "Creepy Grave Offering ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Axew",
+    "Habitat1": "Lumberjack's Workplace ",
+    "Habitat2": "Cozy Log Handicrafts ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Fraxure",
+    "Habitat1": "Lumberjack's Workplace ",
+    "Habitat2": "Cozy Log Handicrafts ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Haxorus",
+    "Habitat1": "Lumberjack's Workplace ",
+    "Habitat2": "Cozy Log Handicrafts ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Goomy",
+    "Habitat1": "Tree-shaded flower bed ",
+    "Habitat2": "Rain Dance Site ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Sliggoo",
+    "Habitat1": "Hydrated Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Goodra",
+    "Habitat1": "Very-Berry Space ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cramorant",
+    "Habitat1": "Hydrated Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pichu",
+    "Habitat1": "Picnic Set ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Peakychu",
+    "Habitat1": "Full Recovery ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pikachu",
+    "Habitat1": "Picnic Set ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Raichu",
+    "Habitat1": "Nature's Market ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Zubat",
+    "Habitat1": "Tree-Shaded Yellow Tall Grass ",
+    "Habitat2": "Park Bench ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Golbat",
+    "Habitat1": "Tree-Shaded Yellow Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Crobat",
+    "Habitat1": "Elevated Yellow Tall Grass",
+    "Habitat2": "Trash Disposal Site ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Meowth",
+    "Habitat1": "Resting Spot ",
+    "Habitat2": "Working the Register ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Persian",
+    "Habitat1": "Evil Organization HQ ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Psyduck",
+    "Habitat1": "Hot-spring Shower ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Golduck",
+    "Habitat1": "Hot-spring Shower ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Growlithe",
+    "Habitat1": "Perpetual Mess ",
+    "Habitat2": "Resort Meal Prep ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Arcanine",
+    "Habitat1": "Mini Museum ",
+    "Habitat2": "Magma Fishing Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Farfetch'd",
+    "Habitat1": "All Packed Up ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Grimer",
+    "Habitat1": "Marsh Fishing Spot ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Muk",
+    "Habitat1": "Marsh Fishing Spot ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gastly",
+    "Habitat1": "Spooky Study ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Haunter",
+    "Habitat1": "Surprise in Store ",
+    "Habitat2": "Spooky Study ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gengar",
+    "Habitat1": "Surprise in Store ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Voltorb",
+    "Habitat1": "Park Bench ",
+    "Habitat2": "Playing Pirate ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Electrode",
+    "Habitat1": "Park Bench ",
+    "Habitat2": "Playing Pirate ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Exeggcute",
+    "Habitat1": "Tropical Vibes ",
+    "Habitat2": "Shaded Beach ",
+    "Habitat3": "Red Tall Grass "
+  },
+  {
+    "Name": "Exeggutor",
+    "Habitat1": "Tropical Vibes ",
+    "Habitat2": "Shaded Beach ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Happiny",
+    "Habitat1": "Alarm Clock Sleep Zone ",
+    "Habitat2": "Working the Register ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Chansey",
+    "Habitat1": "Full Recovery ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Blissey",
+    "Habitat1": "Cuteness Overload",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Elekid",
+    "Habitat1": "Vending Machine Set ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Electabuzz",
+    "Habitat1": "Trash Can Central ",
+    "Habitat2": "Light-Up Stage ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Electivire",
+    "Habitat1": "Light-Up Stage ",
+    "Habitat2": "Vending Machine Set ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Lapras",
+    "Habitat1": "Tropical Seaside ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Munchlax",
+    "Habitat1": "Bed With a Plush ",
+    "Habitat2": "Tree-shaded Snoozing Snorlax ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mosslax",
+    "Habitat1": "Gourmet's Altar",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Snorlax",
+    "Habitat1": "Tree-shaded Snoozing Snorlax ",
+    "Habitat2": "Good Old-fashioned Antiques ",
+    "Habitat3": "Gourmet's Altar"
+  },
+  {
+    "Name": "Spinarak",
+    "Habitat1": "Yellow Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ariados",
+    "Habitat1": "Yellow Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mareep",
+    "Habitat1": "Overgrowth Vending Machine ",
+    "Habitat2": "Knitting Table ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Flaaffy",
+    "Habitat1": "Night Festival Venue ",
+    "Habitat2": "Knitting Table ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ampharos",
+    "Habitat1": "Plain Life ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Azurill",
+    "Habitat1": "Hydrated Yellow Tall Grass",
+    "Habitat2": "Perpetual Mess ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Marill",
+    "Habitat1": "Hydrated Yellow Tall Grass",
+    "Habitat2": "Dock ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Azumarill",
+    "Habitat1": "Dock ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Paldean Wooper",
+    "Habitat1": "Marshy Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Clodsire",
+    "Habitat1": "Marshy Tall Grass ",
+    "Habitat2": "Marshy Fishing Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Smeargle",
+    "Habitat1": "Tiny Atelier ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Torchic",
+    "Habitat1": "Chirp-chirp Meal ",
+    "Habitat2": "Resort Meal Prep ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Combusken",
+    "Habitat1": "Resort Meal Prep ",
+    "Habitat2": "Furnace Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Blaziken",
+    "Habitat1": "Chirp-chirp Meal",
+    "Habitat2": "Furnace Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Wingull",
+    "Habitat1": "Elevated Yellow Tall Grass ",
+    "Habitat2": "Windy Flower Bed ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pelipper",
+    "Habitat1": "Elevated Yellow Tall Grass ",
+    "Habitat2": "Windy Flower Bed ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Makuhita",
+    "Habitat1": "Tree-Shaded Yellow Tall Grass ",
+    "Habitat2": "All Packed Up ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Hariyama",
+    "Habitat1": "Tree-Shaded Yellow Tall Grass ",
+    "Habitat2": "All Packed Up ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Absol",
+    "Habitat1": "Welcoming Resort ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Piplup",
+    "Habitat1": "Hydrated Yellow Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Prinplup",
+    "Habitat1": "Hydrated Yellow Tall Grass ",
+    "Habitat2": "Waterwheel Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Empoleon",
+    "Habitat1": "Tableside Deilvery Cart ",
+    "Habitat2": "Waterwheel Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Audino",
+    "Habitat1": "Working the Register ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Trubbish",
+    "Habitat1": "Trash Collection Site ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Garbodor",
+    "Habitat1": "Trash Collection Site ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Zorua",
+    "Habitat1": "Breezy Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Zoroark",
+    "Habitat1": "Breezy Flower Bed ",
+    "Habitat2": "Surprise in Store ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Minccino",
+    "Habitat1": "Changing Area ",
+    "Habitat2": "Private Makeup Stand ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cinccino",
+    "Habitat1": "Private Makeup Stand ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Grubbin",
+    "Habitat1": "Yellow Tall Grass ",
+    "Habitat2": "Vending Machine Break Area ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Charjabug",
+    "Habitat1": "Vending Machine Break Area ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Vikavolt",
+    "Habitat1": "Tree-shaded Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mimikyu",
+    "Habitat1": "Pikachu Space ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pawmi",
+    "Habitat1": "Breezy Flower Bed ",
+    "Habitat2": "Tantalizing Restaurant ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pawmo",
+    "Habitat1": "Tantalizing Restaurant ",
+    "Habitat2": "Cafe Space ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pawmot",
+    "Habitat1": "Cafe Space ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tatsugiri Curly Form",
+    "Habitat1": "Beach Set ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tatsugiri Droopy Form",
+    "Habitat1": "Beach Set ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tatsugiri Stretchy Form",
+    "Habitat1": "Beach Set ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ekans",
+    "Habitat1": "Hydrated Graceful Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Arbok",
+    "Habitat1": "Hydrated Graceful Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cleffa",
+    "Habitat1": "Graceful Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Clefairy",
+    "Habitat1": "Graceful Flower Bed ",
+    "Habitat2": "Bronze Landmark ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Clefable",
+    "Habitat1": "Graceful Flower Bed ",
+    "Habitat2": "Bronze Landmark ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Igglybuff",
+    "Habitat1": "Flower Garden Stump Stage ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Jigglypuff",
+    "Habitat1": "Flower Garden Stump Stage ",
+    "Habitat2": "Recital Stage ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Wigglytuff",
+    "Habitat1": "Recital Stage ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Diglett",
+    "Habitat1": "Tree-shaded Red Tall Grass ",
+    "Habitat2": "Container Snacking ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dugtrio",
+    "Habitat1": "Tree-shaded Red Tall Grass ",
+    "Habitat2": "House Party ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Machop",
+    "Habitat1": "Boulder-shaded tall grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Machoke",
+    "Habitat1": "Grassy Training Field",
+    "Habitat2": "Box to the Rhythm ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Machamp",
+    "Habitat1": "Grassy Training Field",
+    "Habitat2": "Clink-clang Iron Construction ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Geodude",
+    "Habitat1": "Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Graveler",
+    "Habitat1": "Mossy Boulder ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Golem",
+    "Habitat1": "Mossy Boulder ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Magby",
+    "Habitat1": "Pretty Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Magmar",
+    "Habitat1": "Digging and Burning ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Magmortar",
+    "Habitat1": "Mini Kitchen ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Bonsly",
+    "Habitat1": "Tree-shaded Red Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Sudowoodo",
+    "Habitat1": "Tree-shaded Red Tall Grass ",
+    "Habitat2": "House Party ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Murkrow",
+    "Habitat1": "Elevated Red Tall Grass ",
+    "Habitat2": "Tree-shaded Graceful Flower Bed ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Honchkrow",
+    "Habitat1": "Elevated Red Tall Grass ",
+    "Habitat2": "Chirping Recital ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Larvitar",
+    "Habitat1": "Mossy Rest Spot ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Pupitar",
+    "Habitat1": "Tree-shaded Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tyranitar",
+    "Habitat1": "Toil in the Soil ",
+    "Habitat2": "Mossy Rest Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Lotad",
+    "Habitat1": "Hydrated Red Tall Grass ",
+    "Habitat2": "Uplifting Duckweed ",
+    "Habitat3": "Hot-spring Fishing Spot "
+  },
+  {
+    "Name": "Lombre",
+    "Habitat1": "Hydrated Red Tall Grass ",
+    "Habitat2": "Hot-spring Fishing Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ludicolo",
+    "Habitat1": "Uplifting Duckweed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mawile",
+    "Habitat1": "Working the Register ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Torkoal",
+    "Habitat1": "Mossy Hot Spring",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Kricketot",
+    "Habitat1": "Red Tall Grass ",
+    "Habitat2": "Music and Magazines ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Kricketune",
+    "Habitat1": "Music and Magazines ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Chatot",
+    "Habitat1": "Elevated Red Tall Grass ",
+    "Habitat2": "Chirping Recital ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Riolu",
+    "Habitat1": "Red Tall Grass ",
+    "Habitat2": "Box to the Rhythm ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Lucario",
+    "Habitat1": "Box to the Rhythm ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Stereo Rotom",
+    "Habitat1": "Music and Magazines ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Larvesta",
+    "Habitat1": "Tree-shaded Graceful Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Volcarona",
+    "Habitat1": "Tree-shaded Graceful Flower Bed ",
+    "Habitat2": "Piping-hot Lava ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Rowlet",
+    "Habitat1": "Fresh Veggie Field ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dartrix",
+    "Habitat1": "Pointy Tree-shaded Rocky Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Decidueye",
+    "Habitat1": "Pointy Tree-shaded Rocky Tall Grass ",
+    "Habitat2": "Modern Living ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Scorbunny",
+    "Habitat1": "Red Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Raboot",
+    "Habitat1": "Open-air Bath ",
+    "Habitat2": "Refreshing Locker Room ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cinderace",
+    "Habitat1": "Red Tall Grass ",
+    "Habitat2": "Refreshing Locker Room ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Skwovet",
+    "Habitat1": "Tree-shaded Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Greedent",
+    "Habitat1": "Chef's Kitchen ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Rolycoly",
+    "Habitat1": "Railroad Crossing ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Carkol",
+    "Habitat1": "Railroad Crossing ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Coalossal",
+    "Habitat1": "Railroad Crossing ",
+    "Habitat2": "Heavy Iron",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Toxel",
+    "Habitat1": "Lazy Photo-album Scrolling ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Toxtricity Amped Form",
+    "Habitat1": "Amped Rock Stage ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Toxtricity Low Key Form",
+    "Habitat1": "Low Key Rock Stage ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Fidough",
+    "Habitat1": "Graceful Flower Bed ",
+    "Habitat2": "Best Bread Bakery ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dachsbun",
+    "Habitat1": "Graceful Flower Bed ",
+    "Habitat2": "Best Bread Bakery ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Charcadet",
+    "Habitat1": "Piping-hot Lava ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Armarouge",
+    "Habitat1": "Auspicious Knight's Shrine ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ceruledge",
+    "Habitat1": "Malicious Knight's Shrine ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Glimmet",
+    "Habitat1": "Creepy White Rocks",
+    "Habitat2": "Container Snacking ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Glimmora",
+    "Habitat1": "Creepy White Rocks",
+    "Habitat2": "Container Snacking ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gimmighoul",
+    "Habitat1": "Mini Museum ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gholdengo",
+    "Habitat1": "Absolute Luxury",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Vulpix",
+    "Habitat1": "Fluffy Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ninetales",
+    "Habitat1": "Fluffy Flower Bed ",
+    "Habitat2": "Nine Flames ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Poliwag",
+    "Habitat1": "Squeaky Clean ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Poliwhirl",
+    "Habitat1": "Hydrated Fluffy Flower Bed",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Poliwrath",
+    "Habitat1": "Sewer-hole Inspection ",
+    "Habitat2": "Dojo Training ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Politoed",
+    "Habitat1": "Hydrated Graceful Flower Bed ",
+    "Habitat2": "Flower Garden Stump Stage ",
+    "Habitat3": "Harmonious Hot Spring "
+  },
+  {
+    "Name": "Abra",
+    "Habitat1": "Surging Psychic Power ",
+    "Habitat2": "Fortune-teller's Table ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Kadabra",
+    "Habitat1": "Fortune-teller's Table ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Alakazam",
+    "Habitat1": "Surging Psychic Power ",
+    "Habitat2": "Experiment Space ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mime Jr.",
+    "Habitat1": "Spotless Washing Station",
+    "Habitat2": "Public Reading Material",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mr. Mime",
+    "Habitat1": "Spotless Washing Station",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Porygon",
+    "Habitat1": "Researcher's Desk ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Porygon2",
+    "Habitat1": "Work Desk",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Porygon-Z",
+    "Habitat1": "Game Corner Battle Zone",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dratini",
+    "Habitat1": "Hydrated Fluffy Flower Bed",
+    "Habitat2": "Simple Bathroom ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dragonair",
+    "Habitat1": "Hydrated Fluffy Flower Bed",
+    "Habitat2": "Simple Bathroom ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dragonite",
+    "Habitat1": "Waterside Dinghy ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cyndaquil",
+    "Habitat1": "Concrete Pipe Secret Base ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Quilava",
+    "Habitat1": "Concrete Pipe Secret Base ",
+    "Habitat2": "Fireplace Nap Spot ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Typhlosion",
+    "Habitat1": "Fireplace Nap Spot ",
+    "Habitat2": "Top Pop ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Misdreavus",
+    "Habitat1": "Fluffy Flower Bed ",
+    "Habitat2": "Office Storeroom ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mismagius",
+    "Habitat1": "Fluffy Flower Bed ",
+    "Habitat2": "Home Theater",
+    "Habitat3": "Office Storeroom "
+  },
+  {
+    "Name": "Girafarig",
+    "Habitat1": "Tree-shaded Fluffy Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Farigiraf",
+    "Habitat1": "Tree-shaded Fluffy Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ralts",
+    "Habitat1": "Study Area ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Kirlia",
+    "Habitat1": "Study Area ",
+    "Habitat2": "Moisturizing Makeup Stand ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gardevoir",
+    "Habitat1": "Moisturizing Makeup Stand ",
+    "Habitat2": "Study Area ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Gallade",
+    "Habitat1": "Dojo Training ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Plusle",
+    "Habitat1": "Picturesque Photo Cutout Board",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Minun",
+    "Habitat1": "Picturesque Photo Cutout Board",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Trapinch",
+    "Habitat1": "Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Vibrava",
+    "Habitat1": "Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Flygon",
+    "Habitat1": "Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Swablu",
+    "Habitat1": "Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Altaria",
+    "Habitat1": "Birdsong Garden ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Duskull",
+    "Habitat1": "Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dusclops",
+    "Habitat1": "Trash Site TV ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dusknoir",
+    "Habitat1": "Trash Site TV ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Beldum",
+    "Habitat1": "Cycling Rest Stop ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Metang",
+    "Habitat1": "Professor's Apprentice Program ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Metagross",
+    "Habitat1": "Gamer's Paradise ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Snivy",
+    "Habitat1": "Playland ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Servine",
+    "Habitat1": "Tree-shaded Fluffy Flower Bed",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Serperior",
+    "Habitat1": "Tree-shaded Fluffy Flower Bed",
+    "Habitat2": "Public Reading Material",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Froakie",
+    "Habitat1": "Hydrated Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Frogadier",
+    "Habitat1": "Hydrated Pink Tall Grass ",
+    "Habitat2": "Prank Button ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Greninja",
+    "Habitat1": "Hydrated Pink Tall Grass ",
+    "Habitat2": "Prank Button ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dedenne",
+    "Habitat1": "Tire Park ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Noibat",
+    "Habitat1": "Rhythmic Living Room",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Noivern",
+    "Habitat1": "Rhythmic Living Room",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Rookidee",
+    "Habitat1": "Fluffy Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Corvisquire",
+    "Habitat1": "Elevated Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Corviknight",
+    "Habitat1": "Elevated Pink Tall Grass ",
+    "Habitat2": "Sewer-hole Inspection ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dreepy",
+    "Habitat1": "Tree-shaded Pink Tall Grass",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Drakloak",
+    "Habitat1": "Tree-shaded Pink Tall Grass",
+    "Habitat2": "Office Storeroom ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Dragapult",
+    "Habitat1": "Office Storeroom ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Sprigatito",
+    "Habitat1": "Tree-shaded Pink Tall Grass",
+    "Habitat2": "Interrogation Desk ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Floragato",
+    "Habitat1": "Interrogation Desk ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Meowscarada",
+    "Habitat1": "Heart-Pounding Surprise Box",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Wattrel",
+    "Habitat1": "Elevated Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Kilowattrel",
+    "Habitat1": "Elevated Pink Tall Grass ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tinkatink",
+    "Habitat1": "Large Luggage Carrier",
+    "Habitat2": "Oversized Dumping Ground",
+    "Habitat3": "Sewer-hole Inspection "
+  },
+  {
+    "Name": "Tinkatuff",
+    "Habitat1": "Large Luggage Carrier",
+    "Habitat2": "Sewer-hole Inspection ",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tinkaton",
+    "Habitat1": "Oversized Dumping Ground",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Aerodactyl",
+    "Habitat1": "Wing Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Cranidos",
+    "Habitat1": "Skull Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Rampardos",
+    "Habitat1": "Headbut Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Shieldon",
+    "Habitat1": "Armor Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Bastiodon",
+    "Habitat1": "Shield Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tyrunt",
+    "Habitat1": "Jaw Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Tyrantrum",
+    "Habitat1": "Despot Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Amaura",
+    "Habitat1": "Sail Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Aurorus",
+    "Habitat1": "Tundra Fossil Display ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Eevee",
+    "Habitat1": "Pretty Flower Bed ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Vaporeon",
+    "Habitat1": "Boundless Blue Beverage ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Jolteon",
+    "Habitat1": "Electrifying Potatoes ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Flareon",
+    "Habitat1": "Burning-hot Spice ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Espeon",
+    "Habitat1": "Elegant Daytime Treats ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Umbreon",
+    "Habitat1": "Dark-chocolate Cookies ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Leafeon",
+    "Habitat1": "Leafy Greens Sandwich ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Glaceon",
+    "Habitat1": "Chilly Shaved Ice ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Sylveon",
+    "Habitat1": "Lovely Ribbon Cake ",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Kyogre",
+    "Habitat1": "N/A \n(found via Withered Wasteland mission)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Raikou",
+    "Habitat1": "N/A \n(found via Pikachu Doll)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Entei",
+    "Habitat1": "N/A \n(found via Arcanine Doll)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Suicune",
+    "Habitat1": "N/A \n(found via Eevee Doll)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Volcanion",
+    "Habitat1": "N/A \n(Found via Rocky Ridges Mission)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Articuno",
+    "Habitat1": "N/A \n(must build Frozen Chambers)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Zapdos",
+    "Habitat1": "N/A\n(must build Abandoned Power Plant)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Moltres",
+    "Habitat1": "N/A \n(must build Altar of Flame)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Lugia",
+    "Habitat1": "N/A \n(use Clear Bell)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Ho-Oh",
+    "Habitat1": "N/A \n(use Tidal Bell)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mewtwo",
+    "Habitat1": "N/A \n(found via Dragonite Doll)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Mew",
+    "Habitat1": "N/A \n(found via Mysterious Slate Puzzle)",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Hoppip",
+    "Habitat1": "Yellow Carpet",
+    "Habitat2": "Field-Trip Friends",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Skiploom",
+    "Habitat1": "Yellow Carpet",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Jumpluff",
+    "Habitat1": "Dandelion Lunchtime",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  },
+  {
+    "Name": "Sableye",
+    "Habitat1": "Treasure-hunting Set",
+    "Habitat2": "N/A",
+    "Habitat3": "N/A"
+  }
+]
