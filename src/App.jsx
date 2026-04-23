@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import PokemonList from './components/PokemonList'
 import SearchBar from './components/SearchBar'
-import pokemonData from './PokemonData.json'
+import pokemonData from './data/PokemonData.json'
 
 // localStorage key constant
 const STORAGE_KEY = 'pokopia-collected'
