@@ -26,25 +26,61 @@ function PokemonCard({ pokemon, isCollected, onToggleCollected, viewMode }) {
       </div>
       
       <div className="pokemon-info">
-        <h3 className="pokemon-name">#{pokemon.PokedexId} {pokemon.Name}</h3>
-        <p className="pokemon-type">{pokemon.Location}</p>
-        <p>Habitat(s): </p>
-        {pokemon.Habitat && pokemon.Habitat.Habitat1 && (
-            <a className="pokemon-type" href={pokemon.Habitat.Habitat1.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat1.Name}</a>
+        {viewMode === 'list' ? (
+          <>
+            <div className="pokemon-name-section">
+              <h3 className="pokemon-name">#{pokemon.PokedexId} {pokemon.Name}</h3>
+            </div>
+            <div className="pokemon-details">
+              <div>
+                <p className="pokemon-type">{pokemon.Location}</p>
+              </div>
+              <div className="habitat-section">
+                <p className="habitat-label">Habitat(s):</p>
+                {pokemon.Habitat && pokemon.Habitat.Habitat1 && (
+                  <a className="pokemon-type" href={pokemon.Habitat.Habitat1.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat1.Name}</a>
+                )}
+                {pokemon.Habitat && pokemon.Habitat.Habitat2 && pokemon.Habitat.Habitat2 !== "N/A" && (
+                  <a className="pokemon-type" href={pokemon.Habitat.Habitat2.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat2.Name}</a>
+                )}
+                {pokemon.Habitat && pokemon.Habitat.Habitat3 && pokemon.Habitat.Habitat3 !== "N/A" && (
+                  <a className="pokemon-type" href={pokemon.Habitat.Habitat3.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat3.Name}</a>
+                )}
+              </div>
+              <div>
+              <button 
+                  className={`collect-button ${isCollected ? 'collected' : ''}`}
+                  onClick={handleToggle}
+                  aria-label={`Mark ${pokemon.Name} as ${isCollected ? 'not collected' : 'collected'}`}
+                >
+                  {isCollected ? 'Mark as Not Collected' : 'Mark as Collected'}
+              </button>
+              </div>
+            </div>
+          </>
+        ) : (
+          <>
+            <h3 className="pokemon-name">#{pokemon.PokedexId} {pokemon.Name}</h3>
+            <p className="pokemon-type">{pokemon.Location}</p>
+            <p>Habitat(s): </p>
+            {pokemon.Habitat && pokemon.Habitat.Habitat1 && (
+                <a className="pokemon-type" href={pokemon.Habitat.Habitat1.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat1.Name}</a>
+            )}
+            {pokemon.Habitat && pokemon.Habitat.Habitat2 && pokemon.Habitat.Habitat2 !== "N/A" && (
+                <a className="pokemon-type" href={pokemon.Habitat.Habitat2.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat2.Name}</a>
+            )}
+            {pokemon.Habitat && pokemon.Habitat.Habitat3 && pokemon.Habitat.Habitat3 !== "N/A" && (
+                <a className="pokemon-type" href={pokemon.Habitat.Habitat3.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat3.Name}</a>
+            )}
+            <button 
+              className={`collect-button ${isCollected ? 'collected' : ''}`}
+              onClick={handleToggle}
+              aria-label={`Mark ${pokemon.Name} as ${isCollected ? 'not collected' : 'collected'}`}
+            >
+              {isCollected ? 'Mark as Not Collected' : 'Mark as Collected'}
+            </button>
+          </>
         )}
-        {pokemon.Habitat && pokemon.Habitat.Habitat2 && pokemon.Habitat.Habitat2 !== "N/A" && (
-            <a className="pokemon-type" href={pokemon.Habitat.Habitat2.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat2.Name}</a>
-        )}
-        {pokemon.Habitat && pokemon.Habitat.Habitat3 && pokemon.Habitat.Habitat3 !== "N/A" && (
-            <a className="pokemon-type" href={pokemon.Habitat.Habitat3.Link} target="_blank" rel="noopener noreferrer">{pokemon.Habitat.Habitat3.Name}</a>
-        )}
-        <button 
-          className={`collect-button ${isCollected ? 'collected' : ''}`}
-          onClick={handleToggle}
-          aria-label={`Mark ${pokemon.Name} as ${isCollected ? 'not collected' : 'collected'}`}
-        >
-          {isCollected ? 'Mark as Not Collected' : 'Mark as Collected'}
-        </button>
       </div>
     </div>
   )
